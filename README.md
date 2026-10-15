@@ -3,7 +3,7 @@
 ## Project Overview
 This project develops a machine learning regression model to predict Boston housing prices using housing-related features such as crime rate, average number of rooms, property tax rate, and lower-status population percentage.
 
-Developed as part of the **ShadowFox Machine Learning Internship**.
+
 
 ## Objectives
 - Preprocess the provided housing dataset.
